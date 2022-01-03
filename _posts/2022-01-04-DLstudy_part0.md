@@ -1,3 +1,8 @@
+---
+layout: single
+title: "D&A study part01"
+---
+
 ```python
 import torch
 import numpy as np
