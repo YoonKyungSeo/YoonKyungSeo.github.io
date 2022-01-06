@@ -1,3 +1,8 @@
+---
+layout: single
+title: "D&A study part02_AI background"
+---
+
 # 01. 인공지능 > 머신러닝 > 딥러닝
 
 ![image.png](attachment:image.png)
